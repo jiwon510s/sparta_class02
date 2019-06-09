@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+.idea/modules.xml
+.idea/sparta_class02.iml
+.idea/vcs.xml
+.idea/workspace.xml
